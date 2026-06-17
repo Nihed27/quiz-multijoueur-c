@@ -1,0 +1,5 @@
+Quelle est la capitale de la France ?|Paris|Londres|Berlin|Madrid|A
+Combien font 5 x 5 ?|10|20|25|30|C
+Quel langage est utilisé ici ?|Java|C|Python|Javascript|B
+Qui a peint la Joconde ?|Van Gogh|Picasso|Da Vinci|Monet|C
+Quelle est la planète la plus proche du Soleil ?|Vénus|Mars|Mercure|Terre|C
